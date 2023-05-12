@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 10px 10px;
+  box-sizing: border-box;
+}
+
+img {
+  width: 200px;
+}
+
+.animals {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+}
