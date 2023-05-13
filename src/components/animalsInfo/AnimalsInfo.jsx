@@ -1,8 +1,6 @@
 import "./animalsInfo.style.css";
 
 const AnimalsInfo = () => {
-  const [info, setInfo] = useState(0);
-  setInfo("Zebraa");
   const zebraOnClick = () => {};
 
   return (
