@@ -15,5 +15,5 @@ img {
 }
 
 img:hover {
-  filter: drop-shadow(2px 12px 29px #ffffff);
+  cursor: pointer;
 }
